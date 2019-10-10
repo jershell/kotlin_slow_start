@@ -100,3 +100,5 @@ Hello world.
 https://www.programiz.com/kotlin-programming/hello-world
 
 Если совсем ничего не получается, то всегда можно пойти в онлайн песочницу https://play.kotlinlang.org/ , но в ide конечно удобнее
+
+Для запуска отладчика можно нажать правой кнопкой мыши на App.kt и выбрать debug. Если такого нет, то сначала необходимо нажать sync gradle в самой IDE
