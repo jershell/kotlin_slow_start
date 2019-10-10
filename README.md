@@ -2,6 +2,7 @@
 Котлин. Медленный старт
 
 ## Окружение
+
 1. skdman
 Идем на https://sdkman.io/ и скачиваем sdkman 
 или с помощью bash
@@ -33,6 +34,7 @@ curl -s https://get.sdkman.io | bash
  Или Visual Code
  https://code.visualstudio.com/
  Если первый раз, то лучше idea, community version вполне хватит
+ 
  
  ## Hello world
  
@@ -91,3 +93,10 @@ Hello world.
 
 ```
 То можно теперь открывать проект в IDE
+
+## Введение
+На текущий момент самый простой вариант это вот этот курс
+
+https://www.programiz.com/kotlin-programming/hello-world
+
+Если совсем ничего не получается, то всегда можно пойти в онлайн песочницу https://play.kotlinlang.org/ , но в ide конечно удобнее
